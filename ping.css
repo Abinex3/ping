@@ -1,0 +1,82 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Anton&family=Gabarito&family=Homenaje&family=Josefin+Sans:wght@200;300&family=Lexend&family=Libre+Franklin:wght@500&family=Mohave:ital,wght@1,500&family=Oswald:wght@300&family=Outfit&family=Poppins:wght@300;400&family=Prompt:wght@300&family=Public+Sans&family=Teko:wght@300&family=Work+Sans&family=Young+Serif&display=swap');
+
+*{
+    font-family: 'Public Sans', sans-serif;
+}
+
+#container{
+    text-align: center;
+}
+.title{
+    font-weight: bolder;
+    color: #071934;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 70px;
+}
+
+.dot{
+    color: #4886E2;
+}
+
+.heading{
+    color: #9DA4AD;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.soon{
+    color: #071934;
+    font-weight: bolder;
+}
+
+.sub{
+    color: #071934;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+#input{
+    margin-top: 50px;
+}
+input{
+    padding: 20px;
+    width: 400px;
+    border: 1px solid #9DA4AD;
+    border-radius: 40px;
+    margin-left: -15%
+}
+
+.button{
+    width: 150px;
+    background: #4886E2;
+    text-align: center;
+    padding: 20px;
+    border-radius: 40px;
+    position: relative;
+    left: 58%;
+    top: -75px;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+img{
+    width: 70%;
+    height: 90vh;
+}
+
+.fa-brands{
+    color: #4886E2;
+    border: 1px solid #9DA4AD;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.footer{
+    color: #9DA4AD;
+}
